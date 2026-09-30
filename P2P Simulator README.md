@@ -468,7 +468,7 @@ The goal is to **model the business logic behind an Ariba-style procurement proc
 
 ## ⚠️ Disclaimer
 
-This project is an independent educational simulation.
+This project is an independent educational simulation and learning purpose.
 
 It is not affiliated with, sponsored by, or endorsed by SAP SE.
 
