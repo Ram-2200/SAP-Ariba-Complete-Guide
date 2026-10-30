@@ -1,12 +1,25 @@
-# SAP Ariba Complete Guide
 
-> **A practical, end-to-end SAP Ariba knowledge base for learners, functional consultants, implementation teams, integration/support engineers, and interview preparation.**
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SAP_Ariba-Complete_Guide-0FAAFF?logo=sap&logoColor=white" alt="SAP Ariba Complete Guide"/>
-  <img src="https://img.shields.io/badge/Documentation-Complete-blue" alt="Documentation"/>
-  <img src="https://img.shields.io/badge/License-MIT-green" alt="MIT License"/>
-</p>
+  <img src="assets/sap-ariba-guide-logo.jpg" width="180" alt="SAP Ariba Complete Guide Logo"/>
+
+  <h1>SAP Ariba Complete Guide</h1>
+
+  <p>
+    A practical, end-to-end SAP Ariba knowledge base for learners,
+    functional consultants, implementation teams,
+    integration/support engineers, and interview preparation.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/SAP_Ariba-Complete_Guide-0FAAFF?logo=sap&logoColor=white" alt="SAP Ariba Complete Guide"/>
+    <img src="https://img.shields.io/badge/Documentation-Complete-blue" alt="Documentation"/>
+    <img src="https://img.shields.io/badge/License-MIT-green" alt="MIT License"/>
+  </p>
+
+</div>
+
+---
 
 > **Status:** Active learning and reference project  
 > **Focus:** SAP Ariba • P2O • S2C • Business Network • Integration • SAP MM • Production Support • Interview Preparation
