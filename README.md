@@ -2,9 +2,11 @@
 
 > **A practical, end-to-end SAP Ariba knowledge base for learners, functional consultants, implementation teams, integration/support engineers, and interview preparation.**
 
-[![SAP Ariba](https://img.shields.io/badge/SAP-Ariba-0FAAFF)](https://www.sap.com/products/spend-management/procure-to-pay.html)
-[![Documentation](https://img.shields.io/badge/Documentation-Complete%20Guide-blue)](https://github.com/Ram-2200/SAP-Ariba-Complete-Guide)
-[![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
+<p align="center">
+  <img src="https://img.shields.io/badge/SAP_Ariba-Complete_Guide-0FAAFF?logo=sap&logoColor=white" alt="SAP Ariba Complete Guide"/>
+  <img src="https://img.shields.io/badge/Documentation-Complete-blue" alt="Documentation"/>
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="MIT License"/>
+</p>
 
 > **Status:** Active learning and reference project  
 > **Focus:** SAP Ariba • P2O • S2C • Business Network • Integration • SAP MM • Production Support • Interview Preparation
